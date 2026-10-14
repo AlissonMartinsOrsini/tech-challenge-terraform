@@ -1,0 +1,4 @@
+aws_region = "us-east-1"
+
+# Informe sua senha localmente, sem publicar a senha real.
+db_password = "TROQUE_PELA_SUA_SENHA"
